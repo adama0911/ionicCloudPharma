@@ -1,0 +1,7 @@
+{
+  "name": "myAppReact",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
