@@ -1,7 +1,8 @@
 {
   "name": "myAppReact",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
